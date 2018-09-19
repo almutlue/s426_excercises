@@ -4,3 +4,6 @@ This repo is to take track of the exercises and course work from the *s426 stati
 
 ![alt text](/files/correlation.png)
 
+So do we need a statistics course? \
+See: [Thinking fast and slow](https://www.burns-stat.com/review-thinking-fast-slow-daniel-kahneman/)
+
